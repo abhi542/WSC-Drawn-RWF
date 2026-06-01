@@ -1,4 +1,4 @@
-# WSC Drawn Cumulative
+# RWF WSC PL Items Record Automation
 
 This Python script automates the aggregation of drawn quantities across multiple monthly sheets in an Excel workbook and updates a master sheet with the cumulative totals.
 
